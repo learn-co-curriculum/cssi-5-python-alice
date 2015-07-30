@@ -1,9 +1,4 @@
----
-tags: kids, python, alice, analyzing text
-languages: python
-level: 2
-type: lab
----
+
 ##ALICE IN WONDERLAND
 
 ###Text Analyzing App:
