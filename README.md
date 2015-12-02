@@ -20,3 +20,5 @@ Using the frequency data collected above and Python's random module, generate ra
 
 ###Even More Challenge:
 Make the text as realistic as possible. The output from the first challenge will be random, but it will likely look like nonsense: the punctuation will be wrong, the sentence structure will be weird, etc. Using the analysis techniques above and any others you come up with, try to make the randomly generated text as realistic as possible.
+
+<a href='https://learn.co/lessons/cssi-5-python-alice' data-visibility='hidden'>View this lesson on Learn.co</a>
